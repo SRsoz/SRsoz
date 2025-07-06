@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [resume link]
 
-- 🌐 Connect with me [linkedin link]
+- 🌐 Connect with me on [linkedin](https://www.linkedin.com/in/sozyar-rauf-579970326/)
 
 <h3 align="center">Languages and Tools:</h3>
 
