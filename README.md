@@ -5,19 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=srsoz&label=Profile%20views&color=0e75b6&style=flat" alt="srsoz" />
 </p>
 
-- 🔭 I’m currently working on **hobbyprojects**
+-  I’m currently working on **hobbyprojects**
 
-- 💻 I’m currently learning **advanced JavaScript**
+-  And currently learning **advanced JavaScript**
 
-- 👀 I’m looking for **a LIA internship for November**
+-  I’m looking for an **internship for November 10- 26 April**
 
-- 💼  All of my projects are available at [portfolio link]
+-   Here is my [portfolio](https://srportfolio-brown.vercel.app/)
 
-- 📫 How to reach me **raufhanna@gmail.com**
+-  Reach me on **raufhanna@gmail.com**
 
-- 📄 Know about my experiences [resume link]
-
-- 🌐 Connect with me on [linkedin](https://www.linkedin.com/in/sozyar-rauf-579970326/)
+-  Connect with me on [linkedin](https://www.linkedin.com/in/sozyar-rauf-579970326/)
 
 <h3 align="center">Languages and Tools:</h3>
 
